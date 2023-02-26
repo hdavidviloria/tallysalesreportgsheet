@@ -1,3 +1,6 @@
+// Credits to Shreyas Kapur on stackoverflow for inspiration for the code to add values (https://stackoverflow.com/a/32816451)
+
+
 function add() {
   SpreadsheetApp.getActiveSheet().getRange('C4').setValue(SpreadsheetApp.getActiveSheet().getRange('C4').getValue() + 1);
 }
