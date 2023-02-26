@@ -11,4 +11,4 @@ Access the system! https://docs.google.com/spreadsheets/d/1zUsfln_8zvVRlsMNUL08l
 <img width="714" alt="Screen Shot 2023-02-26 at 10 54 22 PM" src="https://user-images.githubusercontent.com/94162758/221418365-40e0c6c2-d480-4518-a1b1-70d79be6ff3c.png">
 <img width="682" alt="Screen Shot 2023-02-26 at 10 56 51 PM" src="https://user-images.githubusercontent.com/94162758/221418391-356d6c44-8103-4e00-82b3-b66a07bef9da.png">
 
-<img width="682" alt="Screen Shot 2023-02-26 at 10 56 51 PM" src="https://user-images.githubusercontent.com/94162758/221418628-8b587d84-f4e5-4b9c-951a-5ee2748cdae5.png">
+<img width="604" alt="Screen Shot 2023-02-26 at 11 00 54 PM" src="https://user-images.githubusercontent.com/94162758/221418694-3f2d9e01-59f2-4782-915a-ae4c32072371.png">
