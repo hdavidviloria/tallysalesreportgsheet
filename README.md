@@ -42,11 +42,11 @@ For example in the following code blocks below, the function add1 adds the tally
   SpreadsheetApp.getActiveSheet().getRange('C4').setValue(SpreadsheetApp.getActiveSheet().getRange('C4').getValue() + 1);
 }
 ```
-···
+```
 function subtract4() {
   SpreadsheetApp.getActiveSheet().getRange('C25').setValue(SpreadsheetApp.getActiveSheet().getRange('C25').getValue() - 1);
 }
-···
+```
 
 
 
