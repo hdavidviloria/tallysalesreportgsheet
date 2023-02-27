@@ -10,15 +10,15 @@ Access the system! https://docs.google.com/spreadsheets/d/1zUsfln_8zvVRlsMNUL08l
 
 <img width="606" alt="Screen Shot 2023-02-26 at 10 51 56 PM" src="https://user-images.githubusercontent.com/94162758/221418308-eff49ab4-b03d-43b3-9e06-8a2e131a2272.png">
 
-2. You’ll see this pop-up, then just click on make a copy. Essentially, this makes a copy of the Google Sheet as well as the code automatically.
+#### 2. You’ll see this pop-up, then just click on make a copy (this makes a copy of the Google Sheets as well as the code automatically).
 
 <img width="890" alt="Screen Shot 2023-02-26 at 10 51 47 PM" src="https://user-images.githubusercontent.com/94162758/221418319-0d33345b-b4eb-49f8-81fa-9268e0451f41.png">
 
-3. After making a copy, when you click on any of the “add tally” or “subtract tally” buttons, it shows an “Authorization Required” pop-up. Click continue and click on your Google Account.
+#### 3. After making a copy, when you click on any of the “add tally” or “subtract tally” buttons, it shows an “Authorization Required” pop-up. Click continue and click on your Google Account.
 
 <img width="1004" alt="Screen Shot 2023-02-26 at 10 52 42 PM" src="https://user-images.githubusercontent.com/94162758/221418331-90889d3e-4397-4fe9-9d9e-fd5ee9125181.png">
 
-4. Now, click on advanced and click on “Go to Untitled project”. 
+#### 4. Now, click on advanced and click on “Go to Untitled project”. 
 
 <img width="714" alt="Screen Shot 2023-02-26 at 10 54 22 PM" src="https://user-images.githubusercontent.com/94162758/221418365-40e0c6c2-d480-4518-a1b1-70d79be6ff3c.png">
 
@@ -28,7 +28,7 @@ And that’s it!
 
 ### How the code works!
 
-Hi there！ You don't need to do anything to make the code work, as when you copy the spreadsheet the code is already copied (if you follow the documentation). However, if you want to understand how this works or edit it, feel free to look at this section :)
+Hi there! You don't need to do anything to make the code work, as when you copy the spreadsheet the code is already copied (if you follow the documentation). However, if you want to understand how this works or edit it, feel free to look at this section :)
 
 Essentially, how this works is that there are functions, that when executed, increase or decrease the value of a number by one (depending if it's add or subtract tally). 
 
