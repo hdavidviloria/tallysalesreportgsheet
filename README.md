@@ -6,7 +6,7 @@ Access the system! https://docs.google.com/spreadsheets/d/1zUsfln_8zvVRlsMNUL08l
 
 ### How to make a copy of the system
 
-1. First, go to file and click on make a copy.
+##### 1. First, go to file and click on make a copy.
 
 <img width="606" alt="Screen Shot 2023-02-26 at 10 51 56 PM" src="https://user-images.githubusercontent.com/94162758/221418308-eff49ab4-b03d-43b3-9e06-8a2e131a2272.png">
 
