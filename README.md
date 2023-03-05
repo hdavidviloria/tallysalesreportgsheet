@@ -31,7 +31,7 @@ And that’s it!
 
 ## How the code works:
 
-Hi there! You don't need to do anything to make the code work, as when you copy the spreadsheet the code is already copied (if you follow the documentation). However, if you want to understand how this works or edit it, feel free to look at this section :)
+You don't need to do anything to make the code work, as when you copy the spreadsheet the code is already copied (if you follow the documentation). However, if you want to understand how this works or edit it, feel free to look at this section :)
 
 Essentially, how this works is that there are functions, that when executed, increase or decrease the value of a number by one (depending if it's add or subtract tally). 
 
