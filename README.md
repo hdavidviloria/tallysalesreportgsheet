@@ -28,7 +28,8 @@ Access the system! https://docs.google.com/spreadsheets/d/1zUsfln_8zvVRlsMNUL08l
 
 And that’s it!
 
-### How the code works!
+
+## How the code works:
 
 Hi there! You don't need to do anything to make the code work, as when you copy the spreadsheet the code is already copied (if you follow the documentation). However, if you want to understand how this works or edit it, feel free to look at this section :)
 
