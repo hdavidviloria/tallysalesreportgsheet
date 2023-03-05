@@ -24,6 +24,8 @@ Access the system! https://docs.google.com/spreadsheets/d/1zUsfln_8zvVRlsMNUL08l
 
 <img width="802" alt="Screen Shot 2023-02-27 at 1 43 57 PM" src="https://user-images.githubusercontent.com/94162758/221484061-448b5f4a-8a88-4a24-9cdf-b29378284ecf.png">
 
+<img width="682" alt="Screen Shot 2023-02-26 at 10 56 51 PM" src="https://user-images.githubusercontent.com/94162758/221418391-356d6c44-8103-4e00-82b3-b66a07bef9da.png">
+
 And that’s it!
 
 ### How the code works!
@@ -53,6 +55,6 @@ function subtract4() {
 
 Note: This method is editing specified rows, so let's say if you have many more rows and you want to make it automatic that each button modifies its own rows without adding even more code, you can check out this answer at stackoverflow (https://stackoverflow.com/a/64976479)
 
-<img width="682" alt="Screen Shot 2023-02-26 at 10 56 51 PM" src="https://user-images.githubusercontent.com/94162758/221418391-356d6c44-8103-4e00-82b3-b66a07bef9da.png">
+If you want to further edit the code to your own liking, you can edit it via the apps script tab in Google Sheets!
 
 <img width="604" alt="Screen Shot 2023-02-26 at 11 00 54 PM" src="https://user-images.githubusercontent.com/94162758/221418694-3f2d9e01-59f2-4782-915a-ae4c32072371.png">
